@@ -31,7 +31,7 @@
   [NuT] (https://jihoon8730.github.io/nutSide/)
 <hr />
   
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihoon8730)](https://github.com/jihoon8730/github-readme-stats)    
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihoon8730)](https://github.com/jihoon8730/github-readme-stats)  
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihoon8730)](https://github.com/jihoon8730/github-readme-stats)
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
