@@ -3,8 +3,8 @@
 <pre>
   <code>
     Shin ji hoon {
-      movie : 인터스텔라 🍿
-      music : Sunday Girl 검정치마 🎵
+      movie : 덩케르크 🍿
+      music : Diamond 검정치마 🎵
       sports : 🏂 , 🏃🏻‍♂️
     }
   </code>
@@ -25,10 +25,16 @@
   <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=Firebase&logoColor=white">
   <img src="https://img.shields.io/badge/git-orange?style=for-the-badge&logo=Git&logoColor=white">
  </div>
-  
-  <h3>💡 Recent projects</h3>
-  <img src="https://user-images.githubusercontent.com/88140865/201818956-79ecb153-e1b4-4f85-a607-9053e73ad221.png" width="250px"/>
-  [NuT] (https://jihoon8730.github.io/nutSide/)
+ 
+ <div>
+   <h3>💡 Recent projects</h3>
+   <img src="https://user-images.githubusercontent.com/88140865/201818956-79ecb153-e1b4-4f85-a607-9053e73ad221.png" width="250px"/>
+   <p>[NuT] (https://jihoon8730.github.io/nutSide/)</p>
+   <h3>💡 Recent posts</h3>
+   <p>11월 24일</p>
+   <a href="https://rec8730.tistory.com/125"><p>자바스크립트 ES6 문법을 통한 입력값 주기 Feat. React</p></a>
+ </div>
+ 
 <hr />
   
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihoon8730)](https://github.com/jihoon8730/github-readme-stats)  
