@@ -3,7 +3,7 @@
 <pre>
   <code>
     Shin ji hoon {
-      movie : 덩케르크 🍿
+      movie : 인터스텔라 🍿
       music : Diamond 검정치마 🎵
       sports : 🏂 , 🏃🏻‍♂️
     }
