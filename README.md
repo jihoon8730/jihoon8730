@@ -31,8 +31,8 @@
    <img src="https://user-images.githubusercontent.com/88140865/201818956-79ecb153-e1b4-4f85-a607-9053e73ad221.png" width="250px"/>
    <p>[NuT] (https://jihoon8730.github.io/nutSide/)</p>
    <h3>💡 Recent posts</h3>
-   <p>12월 7일</p>
-   <a href="https://rec8730.tistory.com/127"><p>호이스팅에 대해 알고 계신가요?</p></a>
+   <p>2023년 1월 3일</p>
+   <a href="https://rec8730.tistory.com/142"><p>AJAX의 간단한 사용법</p></a>
  </div>
  
 <hr />
