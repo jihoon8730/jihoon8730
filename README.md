@@ -33,7 +33,7 @@
    <p>[NuT] (https://jihoon8730.github.io/nutSide/)</p>
    <h3>💡 Recent posts</h3>
    <p>2023년 1월 3일</p>
-   <a href="https://rec8730.tistory.com/142"><p>AJAX의 간단한 사용법</p></a>
+   <a href="https://rec8730.tistory.com/145"><p>Jquery AJAX 페이지네이션(pagination) 구현</p></a>
  </div>
  
 <hr />
