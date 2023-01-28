@@ -32,8 +32,8 @@
    <img src="https://user-images.githubusercontent.com/88140865/201818956-79ecb153-e1b4-4f85-a607-9053e73ad221.png" width="250px"/>
    <p>[NuT] (https://jihoon8730.github.io/nutSide/)</p>
    <h3>💡 Recent posts</h3>
-   <p>2023년 1월 15일</p>
-   <a href="https://rec8730.tistory.com/145"><p>Jquery AJAX 페이지네이션(pagination) 구현</p></a>
+   <p>2023년 1월 25일</p>
+   <a href="https://rec8730.tistory.com/147"><p>일본 우편번호 api 사용해보기 </p></a>
  </div>
  
 <hr />
