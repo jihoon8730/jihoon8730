@@ -1,15 +1,5 @@
-<h1>🌈 jihoon8730 👻</h1>
+<h1>🌈 Hi 👻</h1>
 <!-- <img src="https://user-images.githubusercontent.com/88140865/201810691-552ec0aa-5d46-4f68-8021-a085b5b840ba.jpeg" width="150px"/> -->
-<pre>
-  <code>
-    Shin ji hoon {
-      movie : 인터스텔라 🍿
-      music : Diamond 검정치마 🎵
-      sports : 🏂 , 🏃🏻‍♂️
-      턱걸이 : 2023.03.12 4개
-    }
-  </code>
-</pre>
 
 <h4>📜 [Blog] (https://rec8730.tistory.com/)</h4>
 <h4><img src="https://user-images.githubusercontent.com/88140865/201811650-a36823dc-70dc-407b-a3b0-686d2cfde7ba.png"width="20px" />  [Instagram] (https://www.instagram.com/0112mm_nin/)</h4>
