@@ -41,6 +41,8 @@
   
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihoon8730)](https://github.com/jihoon8730/github-readme-stats)  
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihoon8730)](https://github.com/jihoon8730/github-readme-stats)
+   
+   ![](./profile-3d-contrib/profile-green-animate.svg)
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
