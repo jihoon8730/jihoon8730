@@ -1,4 +1,5 @@
-<h1>🌈 Hi 👻</h1>
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=Welcome&fontSize=80)
+
 <!-- <img src="https://user-images.githubusercontent.com/88140865/201810691-552ec0aa-5d46-4f68-8021-a085b5b840ba.jpeg" width="150px"/> -->
 
 <h4>📜 [Blog] (https://rec8730.tistory.com/)</h4>
@@ -23,8 +24,8 @@
    <img src="https://user-images.githubusercontent.com/88140865/201818956-79ecb153-e1b4-4f85-a607-9053e73ad221.png" width="250px"/>
    <p>[NuT] (https://jihoon8730.github.io/nutSide/)</p>
    <h3>💡 Recent posts</h3>
-   <p>2023년 1월 25일</p>
-   <a href="https://rec8730.tistory.com/147"><p>일본 우편번호 api 사용해보기 </p></a>
+   <p>2023년 4월 17일</p>
+   <a href="https://rec8730.tistory.com/149"><p> react-hook-form 효율적으로 사용해보기 - 1 </p></a>
  </div>
  
 <hr />
@@ -34,5 +35,5 @@
    
    ![](./profile-3d-contrib/profile-green-animate.svg)
   
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
 
