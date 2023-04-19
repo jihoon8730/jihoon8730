@@ -4,7 +4,7 @@
 
 <h4>📜 [Blog] (https://rec8730.tistory.com/)</h4>
 <h4><img src="https://user-images.githubusercontent.com/88140865/201811650-a36823dc-70dc-407b-a3b0-686d2cfde7ba.png"width="20px" />  [Instagram] (https://www.instagram.com/0112mm_nin/)</h4>
-<h4>📧 [Gmail] (rec8730@gamil.com)
+<h4>📧 [Gmail] (rec8730@gmail.com)
 <hr />
   <h3>📚 My tech stack </h3>
  <div>
