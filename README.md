@@ -16,15 +16,12 @@
   
  <h3 align="left">📚 My tech stack </h3>
  <div>
-  <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=#white">
   <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=TypeScript&logoColor">
   <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=#blue">
   <img src="https://img.shields.io/badge/SASS-pink?style=for-the-badge&logo=SASS&logoColor">
   <img src="https://img.shields.io/badge/styledcomponents-pink?style=for-the-badge&logo=styled-components&logoColor">
   <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=Firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/git-orange?style=for-the-badge&logo=Git&logoColor=white">
  </div>
   
   <br />
