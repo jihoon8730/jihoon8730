@@ -15,6 +15,7 @@
   <br />
   
  <h3 align="left">📚 My tech stack </h3>
+
  <div>
   <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=TypeScript&logoColor">
