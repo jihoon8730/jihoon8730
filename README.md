@@ -12,13 +12,13 @@
   
  <h3 align="left">📚 My tech stack </h3>
  <div>
-  <img src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=#blue">
-  <img src="https://img.shields.io/badge/Reactnative-white?style=for-the-badge&logo=React&logoColor=#blue">
-  <img src="https://img.shields.io/badge/Zustand-white?style=for-the-badge&logo=zustand&logoColor=#blue">
-  <img src="https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=javascript&logoColor=yellow">
-  <img src="https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=TypeScript&logoColor">
-  <img src="https://img.shields.io/badge/styledcomponents-white?style=for-the-badge&logo=styled-components&logoColor=hotpink">
-  <img src="https://img.shields.io/badge/Firebase-white?style=for-the-badge&logo=Firebase&logoColor=orange">
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=#blue">
+  <img src="https://img.shields.io/badge/Reactnative-black?style=for-the-badge&logo=React&logoColor=#blue">
+  <img src="https://img.shields.io/badge/Zustand-black?style=for-the-badge&logo=zustand&logoColor=#blue">
+  <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=yellow">
+  <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor">
+  <img src="https://img.shields.io/badge/styledcomponents-black?style=for-the-badge&logo=styled-components&logoColor=hotpink">
+  <img src="https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=Firebase&logoColor=orange">
  </div>
   
   <br />
