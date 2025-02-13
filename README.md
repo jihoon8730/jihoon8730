@@ -1,11 +1,8 @@
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=Welcome&fontSize=80)
-
 <!-- <img src="https://user-images.githubusercontent.com/88140865/201810691-552ec0aa-5d46-4f68-8021-a085b5b840ba.jpeg" width="150px"/> -->
   
   
    
-<hr />
-   <img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ndg1apykd3sdjo9g5istt9et9mbkfebpz61na2ts&rid=giphy.gif&ct=g" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen />
+  <img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ndg1apykd3sdjo9g5istt9et9mbkfebpz61na2ts&rid=giphy.gif&ct=g" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen />
   <h3 align="left">📚 Front-end developers </h3>
   <h4 align="left">📜 [Blog] (https://rec8730.tistory.com/)</h4>
   <h4 align="left">📧 [Gmail] (rec8730@gmail.com)</h4>
